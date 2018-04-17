@@ -1,5 +1,6 @@
 # dfinder
-DFinder
+
+DFinder - Drupalgeddon2 targets finder
 
 1. Install requirements:
 
